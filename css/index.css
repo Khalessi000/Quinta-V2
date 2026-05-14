@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #3C505E   
+}
+
+h1 {
+    color:#3C505E   
+}
+
+h2 {
+    color: #3C505E;
+}
+
+.uno {
+    height: 200px;
+    background-color: #92BEDE;
+    border: 2px solid #3C505E;
+    
+}
+.dos {
+    height: 200px;
+    background-color:#DD9291;
+    border: 2px solid #3C505E
+}
+
+.tres {
+    height: 200px;
+    background-color: #92BEDE;
+    border: 2px solid #3C505E
+}
+
+.caja1 {
+    height: 700px;
+    background-color: #DEDE92;
+    border: 2px solid #3C505E;    
+}
+
+#cabecera {
+    margin: 20px 0px 20px 0px;
+    border: #92BEDE dashed 2px;
+    padding: 20px;
+}
